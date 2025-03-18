@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://oh25ph3y8ue3"]
+
+[ext_resource type="Texture2D" uid="uid://bsdeu7ubmcr87" path="res://Art/AirlockWarning.png" id="1_y4yub"]
+
+[node name="Splash" type="TextureRect"]
+
+[node name="AirlockWarning" type="Sprite2D" parent="."]
+position = Vector2(551, 314)
+texture = ExtResource("1_y4yub")
